@@ -140,9 +140,11 @@ h1 {
 .prevencao-texto {
   margin-bottom: 30px;
   font-size: 24px;
+  margin-left: -95px;
 }
 
 .prevencao-card {
+  margin-left: -100px;
   justify-content: space-between;
   background-color: #e7527e;
   color: #FFE9EC;
