@@ -3,7 +3,7 @@
 @import url('https://fonts.cdnfonts.com/css/sf-willamette');
 
 body {
-  background-color: #fff;
+  background-color: #FFE9EC;
   font-family: 'metropolis', sans-serif;
   color: #333;
   margin: 0;
@@ -42,7 +42,7 @@ h1 {
   padding: 25px 40px;
   border-radius: 12px;
   flex: 1;
-  font-size: 23px;
+  font-size: 25px;
   line-height: 1.6;
 }
 
@@ -64,8 +64,7 @@ h1 {
   padding: 40px;
   max-width: 1000px;
   margin: auto;
-  background-color: white;
-  box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+  background-color:#FFE9EC;
   border-radius: 10px;
   flex-wrap: wrap;
 }
@@ -73,7 +72,7 @@ h1 {
 .texto {
   flex: 1 1 60%;
   padding-right: 30px;
-  font-size: 23px;
+  font-size: 26px;
   color: #333;
   line-height: 1.6;
   position: relative;
@@ -102,7 +101,7 @@ h1 {
 .img img {
   position: absolute;
   right: -70%;
-  bottom: -100px;
+  bottom: -10px;
   width: 110%;
   z-index: 2;
   max-width: none;
@@ -123,14 +122,13 @@ h1 {
 }
 
 .prevencao-card {
-  justify-content:center;
+  justify-content:space-between;
   background-color: #e7527e;
-  color: white;
+  color: #FFE9EC;
   border-radius: 12px;
   padding: 0px 60px;
   width: 900px;
   display: flex;
-  align-items: flex-end;
   position: relative;
   overflow: hidden;
   
@@ -173,7 +171,7 @@ h1 {
   max-width: 900px;
   margin: 0 auto;
   padding: 40px 80px;
-  background-color: #fff;
+  background-color: #FFE9EC;
   color: #333;
 }
 
